@@ -9,9 +9,11 @@
 #### [5. 스택/큐]()
 #### [6. 힙(Heap)]()
 #### [7. 탐욕법(Greedy)]()
-#### [8. 이분탐색 Binary Search]()
+#### [8. 이분탐색 Binary Search (분할정복)]()
 #### [9. 동적계획법(Dynamic Programming)]()
 #### [10. 그래프]()
+
+- 분할 정복 기법 : quick sort, merge sort, binary search
 
 <hr/>
 
