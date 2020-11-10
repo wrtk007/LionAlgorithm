@@ -165,3 +165,12 @@ https://ko.khanacademy.org/computing/computer-science/algorithms/recursive-algor
 https://codevang.tistory.com/297
 
 https://whereisusb.tistory.com/214
+
+<u> <br> </u>
+<hr />
+<u> <br> </u>
+
+### 노트
+
+-비트마스크 왜 쓰지 : 섬이 n개일때 지나갈 수 있는 다리 수. true/false로 나눌 수 있는 것처럼!
+                    특정 문제에서 빠른 효과

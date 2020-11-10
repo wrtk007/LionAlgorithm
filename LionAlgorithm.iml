@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Failed Sources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/백준" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EPPER" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/문제/EPPER" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/문제/미해결" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/문제/백준" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
