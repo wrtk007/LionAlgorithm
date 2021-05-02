@@ -16,9 +16,6 @@ public class no_1260 {
         boolean[] visit = new boolean[N];
 
         for(i=1; i<q.length; i++) {
-            if(g[V][i] == 1) {
-                a = DFS();
-            }
         }
 
         return a;
