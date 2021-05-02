@@ -1,22 +1,12 @@
 # 🦁알고리즘 스터디🦁
 
-## 개념 공부 순서
-프로그래머스 참고
-#### [1. 해시](./개념/1_해시.md)
-#### [2. 정렬](./개념/2_정렬.md)
-#### [3. 완전 탐색_BP문제]()
-#### [4. 깊이/너비 우선 탐색 (DFS/BFS)]()
-#### [5. 스택/큐]()
-#### [6. 힙(Heap)]()
-#### [7. 탐욕법(Greedy)]()
-#### [8. 이분탐색 Binary Search (분할정복)]()
-#### [9. 동적계획법(Dynamic Programming)]()
-#### [10. 그래프]()
-
-- 분할 정복 기법 : quick sort, merge sort, binary search
+## 개념
+[정리](https://github.com/wrtk007/LionAlgorithm/tree/master/%EA%B0%9C%EB%85%90)
 
 <hr/>
 
 ## 문제
 - 백준 알고리즘  
 [소스 보기](./문제/백준)
+- 문제 해결 아이디어
+[링크](https://blog.naver.com/wrtk007/222329359600)
